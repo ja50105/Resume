@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "test.data.unityweb",
-"asmCodeUrl": "test.asm.code.unityweb",
-"asmMemoryUrl": "test.asm.memory.unityweb",
-"asmFrameworkUrl": "test.asm.framework.unityweb",
+"dataUrl": "Res.data.unityweb",
+"asmCodeUrl": "Res.asm.code.unityweb",
+"asmMemoryUrl": "Res.asm.memory.unityweb",
+"asmFrameworkUrl": "Res.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
